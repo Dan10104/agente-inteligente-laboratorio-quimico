@@ -1,0 +1,27 @@
+{
+  "theme": "Claro",
+  "scale": 1.45,
+  "density": "Cómoda",
+  "visible": {
+    "top3": true,
+    "history": true,
+    "status": true,
+    "stats": true
+  },
+  "collapsed": {
+    "camera": false,
+    "info": false,
+    "top3": false,
+    "history": false
+  },
+  "ratios": {
+    "camera": 0.5229430379746836,
+    "workspace": 0.8381804623415362
+  },
+  "fonts": {
+    "title": 1.0,
+    "confidence": 1.0,
+    "education": 1.0,
+    "history": 1.0
+  }
+}
